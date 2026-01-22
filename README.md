@@ -104,5 +104,4 @@ This project is open-source and available under the **MIT License**.
 
 ## 👤 Author
 
-**Priyanshu Khambalkar**
-GitHub: [18PriyanshuK](https://github.com/18PriyanshuK)
+**[Priyanshu Khambalkar](https://github.com/18PriyanshuK)**  
